@@ -4,11 +4,14 @@ import Main from './Template/Main';
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path='/' element={<Main></Main>} />
-      </Routes>
-    </BrowserRouter>
+    <div>
+      <Main></Main>
+    </div>
+    // <BrowserRouter>
+    //   <Routes>
+    //     <Route path='/' element={<Main></Main>} />
+    //   </Routes>
+    // </BrowserRouter>
     
   );
 }
