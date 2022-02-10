@@ -64,28 +64,28 @@ function Footer() {
                                 <h4>Contact Us</h4>
                                 <p>
                                     A108 Adam Street <br />
-                                        New York, NY 535022<br />
-                                            United States <br></br>
-                                                <strong>Phone:</strong> +1 5589 55488 55<br />
-                                                    <strong>Email:</strong> info@example.com<br />
-                                                    </p>
+                                    New York, NY 535022<br />
+                                    United States <br></br>
+                                    <strong>Phone:</strong> +1 5589 55488 55<br />
+                                    <strong>Email:</strong> info@example.com<br />
+                                </p>
 
-                                                </div>
-                                            
-                                            </div>
-                                            </div>
-                                        </div>
-
-                                        <div className="container">
-                                            <div className="copyright">
-                                                © Copyright <strong><span>FlexStart</span></strong>. All Rights Reserved
-                                            </div>
-                                            <div className="credits">
-                                                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                                            </div>
-                                        </div>
-                                    </footer>
                             </div>
-                            )
+
+                        </div>
+                    </div>
+                </div>
+
+                <div className="container">
+                    <div className="copyright">
+                        © Copyright <strong><span>FlexStart</span></strong>. All Rights Reserved
+                    </div>
+                    <div className="credits">
+                        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    )
 }
-                            export default Footer;
+export default Footer;

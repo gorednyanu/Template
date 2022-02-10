@@ -27,7 +27,7 @@ function Blog() {
                             <div className="post-box">
                                 <div className="post-img"><img src="assets/img/blog/blog-2.jpg" className="img-fluid" alt="" /></div>
                                 <span className="post-date">Fri, August 28</span>
-                                <h3 className="post-title">Et repellendus molestiae qui est sed omnis voluptates magnam</h3>
+                                <h3 className="post-title">Et repellendus molestiae quiest sed omnis voluptates magnam</h3>
                                 <a href="blog-single.html" className="readmore stretched-link mt-auto"><span>Read More</span><i className="bi bi-arrow-right"></i></a>
                             </div>
                         </div>
