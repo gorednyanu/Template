@@ -130,13 +130,13 @@ function About() {
 
                         <header className="section-header">
                             <h2>Features</h2>
-                            <p>Laboriosam et omnis fuga quis dolor direda fara</p>
+                            <h3>Our Team that Makes us #1 IT Service Providing Agency:</h3>
                         </header>
 
                         <div className="row">
 
                             <div className="col-lg-6">
-                                <img src="assets/img/features.png" className="img-fluid" alt="" />
+                                <img src="assets/img/about1.webp" className="img-fluid" alt="" />
                             </div>
 
                             <div className="col-lg-6 mt-5 mt-lg-0 d-flex">
@@ -145,42 +145,42 @@ function About() {
                                     <div className="col-md-6 aos-init aos-animate" data-aos="zoom-out" data-aos-delay="200">
                                         <div className="feature-box d-flex align-items-center">
                                             <i className="bi bi-check"></i>
-                                            <h3>Eos aspernatur rem</h3>
+                                            <h3>Understand in true sense</h3>
                                         </div>
                                     </div>
 
                                     <div className="col-md-6 aos-init aos-animate" data-aos="zoom-out" data-aos-delay="300">
                                         <div className="feature-box d-flex align-items-center">
                                             <i className="bi bi-check"></i>
-                                            <h3>Facilis neque ipsa</h3>
+                                            <h3>Plan the best</h3>
                                         </div>
                                     </div>
 
                                     <div className="col-md-6 aos-init aos-animate" data-aos="zoom-out" data-aos-delay="400">
                                         <div className="feature-box d-flex align-items-center">
                                             <i className="bi bi-check"></i>
-                                            <h3>Volup amet voluptas</h3>
+                                            <h3>Structure an approach</h3>
                                         </div>
                                     </div>
 
                                     <div className="col-md-6 aos-init aos-animate" data-aos="zoom-out" data-aos-delay="500">
                                         <div className="feature-box d-flex align-items-center">
                                             <i className="bi bi-check"></i>
-                                            <h3>Rerum omnis sint</h3>
+                                            <h3>Execute the plan with an Agile approach</h3>
                                         </div>
                                     </div>
 
                                     <div className="col-md-6 aos-init aos-animate" data-aos="zoom-out" data-aos-delay="600">
                                         <div className="feature-box d-flex align-items-center">
                                             <i className="bi bi-check"></i>
-                                            <h3>Alias possimus</h3>
+                                            <h3>Test the product/service quality at different stages</h3>
                                         </div>
                                     </div>
 
                                     <div className="col-md-6 aos-init aos-animate" data-aos="zoom-out" data-aos-delay="700">
                                         <div className="feature-box d-flex align-items-center">
                                             <i className="bi bi-check"></i>
-                                            <h3>Repellendus mollitia</h3>
+                                            <h3>Make the changes for improvement based on feedbacks</h3>
                                         </div>
                                     </div>
 
