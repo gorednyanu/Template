@@ -3,16 +3,16 @@ import React from "react";
 function Footer() {
     return (
         <div>
-            <footer id="footer" class="footer">
+            <footer id="footer" className="footer">
 
-                <div class="footer-newsletter">
-                    <div class="container">
-                        <div class="row justify-content-center">
-                            <div class="col-lg-12 text-center">
+                <div className="footer-newsletter">
+                    <div className="container">
+                        <div className="row justify-content-center">
+                            <div className="col-lg-12 text-center">
                                 <h4>Our Newsletter</h4>
                                 <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
                             </div>
-                            <div class="col-lg-6">
+                            <div className="col-lg-6">
                                 <form action="" method="post">
                                     <input type="email" name="email" /><input type="submit" value="Subscribe" />
                                 </form>
@@ -21,46 +21,46 @@ function Footer() {
                     </div>
                 </div>
 
-                <div class="footer-top">
-                    <div class="container">
-                        <div class="row gy-4">
-                            <div class="col-lg-5 col-md-12 footer-info">
-                                <a href="index.html" class="logo d-flex align-items-center">
+                <div className="footer-top">
+                    <div className="container">
+                        <div className="row gy-4">
+                            <div className="col-lg-5 col-md-12 footer-info">
+                                <a href="index.html" className="logo d-flex align-items-center">
                                     <img src="assets/img/logo.png" alt="" />
                                     <span>FlexStart</span>
                                 </a>
                                 <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-                                <div class="social-links mt-3">
-                                    <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                                    <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                                    <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                                    <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+                                <div className="social-links mt-3">
+                                    <a href="#" className="twitter"><i className="bi bi-twitter"></i></a>
+                                    <a href="#" className="facebook"><i className="bi bi-facebook"></i></a>
+                                    <a href="#" className="instagram"><i className="bi bi-instagram"></i></a>
+                                    <a href="#" className="linkedin"><i className="bi bi-linkedin"></i></a>
                                 </div>
                             </div>
 
-                            <div class="col-lg-2 col-6 footer-links">
+                            <div className="col-lg-2 col-6 footer-links">
                                 <h4>Useful Links</h4>
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Home</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">About us</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Services</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
                                 </ul>
                             </div>
 
-                            <div class="col-lg-2 col-6 footer-links">
+                            <div className="col-lg-2 col-6 footer-links">
                                 <h4>Our Services</h4>
                                 <ul>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
-                                    <li><i class="bi bi-chevron-right"></i> <a href="#">Graphic Design</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
+                                    <li><i className="bi bi-chevron-right"></i> <a href="#">Graphic Design</a></li>
                                 </ul>
                             </div>
 
-                            <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+                            <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                                 <h4>Contact Us</h4>
                                 <p>
                                     A108 Adam Street <br />
@@ -76,11 +76,11 @@ function Footer() {
                                             </div>
                                         </div>
 
-                                        <div class="container">
-                                            <div class="copyright">
+                                        <div className="container">
+                                            <div className="copyright">
                                                 © Copyright <strong><span>FlexStart</span></strong>. All Rights Reserved
                                             </div>
-                                            <div class="credits">
+                                            <div className="credits">
                                                 Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
                                             </div>
                                         </div>
