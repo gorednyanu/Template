@@ -9,8 +9,8 @@ function Footer() {
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-lg-12 text-center">
-                                <h4>Our Newsletter</h4>
-                                <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                                <h4>Contact Us</h4>
+                                <p>Assimilate Technologies was founded by technophile with the objective of developing customer business centric software. </p>
                             </div>
                             <div className="col-lg-6">
                                 <form action="" method="post">
@@ -31,10 +31,10 @@ function Footer() {
                                 </a>
                                 <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
                                 <div className="social-links mt-3">
-                                    <a href="#" className="twitter"><i className="bi bi-twitter"></i></a>
-                                    <a href="#" className="facebook"><i className="bi bi-facebook"></i></a>
-                                    <a href="#" className="instagram"><i className="bi bi-instagram"></i></a>
-                                    <a href="#" className="linkedin"><i className="bi bi-linkedin"></i></a>
+                                    <a href="#" className="twitter"><i className="fa fa-twitter" style={{ fontSize:"25px", color:'DodgerBlue'}}></i></a>
+                                    <a href="#" className="facebook"><i className="fa fa-facebook" style={{ fontSize:"25px", color:'blue'}}></i></a>
+                                    <a href="#" className="instagram"><i className="fa fa-instagram" style={{ fontSize:"25px", color:'Tomato'}}></i></a>
+                                    <a href="#" className="linkedin"><i className="fa fa-linkedin" style={{ fontSize:"25px", color:'SlateBlue'}}></i></a>
                                 </div>
                             </div>
 
@@ -63,11 +63,11 @@ function Footer() {
                             <div className="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                                 <h4>Contact Us</h4>
                                 <p>
-                                    A108 Adam Street <br />
-                                    New York, NY 535022<br />
-                                    United States <br></br>
-                                    <strong>Phone:</strong> +1 5589 55488 55<br />
-                                    <strong>Email:</strong> info@example.com<br />
+                                Off. No. 13/16, 5th Floor,<br />
+                                 Luvkush Apartment, Aundh,<br></br>
+                                 Pune 411007. <br></br>
+                                    <strong><img src="assets/img/india.png" alt="" style={{height:"25px", wigth:"30px"}} /> Phone:</strong>+91 88888 99151<br />
+                                    <strong> <img src="assets/img/email.png" alt="" style={{height:"25px", wigth:"30px"}} />Email:</strong> info@assimilatetechnologies.com<br />
                                 </p>
 
                             </div>
@@ -78,10 +78,7 @@ function Footer() {
 
                 <div className="container">
                     <div className="copyright">
-                        © Copyright <strong><span>FlexStart</span></strong>. All Rights Reserved
-                    </div>
-                    <div className="credits">
-                        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                        © Copyright <strong><span>Assimilate Technologies</span></strong>. All Rights Reserved
                     </div>
                 </div>
             </footer>
