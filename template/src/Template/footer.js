@@ -29,7 +29,7 @@ function Footer() {
                                     <img src="assets/img/logo1.png" alt="" style={{height:"40px", wigth:'50px'}} />
                                     <span>Assimilate Tech</span>
                                 </a>
-                                <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
+                                <p>Assimilate Technologies was founded by technophile with the objective of developing customer business centric software. The focus is to integrate technologies for building rich “User Experience” software and Products.</p>
                                 <div className="social-links mt-3">
                                     <a href="#" className="twitter"><i className="fa fa-twitter" style={{ fontSize:"25px", color:'DodgerBlue'}}></i></a>
                                     <a href="#" className="facebook"><i className="fa fa-facebook" style={{ fontSize:"25px", color:'blue'}}></i></a>
