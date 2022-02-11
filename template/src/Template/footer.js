@@ -4,7 +4,6 @@ function Footer() {
     return (
         <div>
             <footer id="footer" className="footer">
-
                 <div className="footer-newsletter">
                     <div className="container">
                         <div className="row justify-content-center">

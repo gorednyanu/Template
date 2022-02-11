@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 function About() {
     return (
@@ -16,12 +17,7 @@ function About() {
                                     Assimilate Technologies was founded by a technophile with years’ experience in designing and delivering task-oriented business solutions powered by a range of advanced technologies. Industry-best tailor-made software development to simplify operational tasks and to improve task-specific performances for improved user experience has been our expertise.<br></br><br></br>
 
                                     Over the years, we have become a widely-known IT services provider in almost all industries including manufacturers, services providers, eCommerce retailers etc. We have experience-driven insights to serve businesses in different domains- healthcare, ITSM, sales-marketing, manufacturing, institutions, service-support, etc.                                </p>
-                                <div className="text-center text-lg-start">
-                                    <a href="#" className="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
-                                        <span>Read More</span>
-                                        <i className="bi bi-arrow-right"></i>
-                                    </a>
-                                </div>
+
                             </div>
                         </div>
 
@@ -318,7 +314,12 @@ function About() {
 
                                     </div>
                                 </div>
-
+                                <div className="text-center text-lg-start">
+                                    <Link to="/services" className="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                                        <span>Read More</span>
+                                        <i className="bi bi-arrow-right"></i>
+                                    </Link>
+                                </div>
                             </div>
 
                         </div>

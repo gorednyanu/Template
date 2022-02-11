@@ -15,8 +15,8 @@ function Main() {
                     <Route exact path="/" element={<Home></Home>} />
                     <Route exact path="/about" element={<About></About>} />
                     <Route exact path="/services" element={<Services></Services>} />
-                    <Route exact path="/footer" element={<Footer></Footer>} />
                 </Routes>
+                <Footer></Footer>
             </div>
         </Router>
     )

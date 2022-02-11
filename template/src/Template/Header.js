@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import './header.css';
 
 function Header(){
     return(
@@ -17,7 +18,7 @@ function Header(){
                                 <li><Link className="nav-link scrollto" to="/">Home</Link></li>
                                 <li><Link className="nav-link scrollto" to="/about">About</Link></li>
                                 <li><Link className="nav-link scrollto" to="/services">Services</Link></li>
-                                <li><Link className="getstarted scrollto" to="/">Get Started</Link></li>
+                                <li className="getstart"><Link className="getstarted scrollto" to="/">Get Started</Link></li>
                             </ul>
                             <i className="bi bi-list mobile-nav-toggle"></i>
                         </nav>

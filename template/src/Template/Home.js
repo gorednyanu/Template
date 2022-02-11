@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Home() {
     return (
@@ -12,10 +13,10 @@ function Home() {
                             <h2 data-aos="fade-up" data-aos-delay="400" className="aos-init aos-animate">Assimilate technologies is a best #IT training institude in pune</h2>
                             <div data-aos="fade-up" data-aos-delay="600" className="aos-init aos-animate">
                                 <div className="text-center text-lg-start">
-                                    <a href="#about" className="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
+                                    <Link to="/about" className="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">
                                         <span>Get Started</span>
                                         <i className="bi bi-arrow-right"></i>
-                                    </a>
+                                    </Link>
                                 </div>
                             </div>
                         </div>
