@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import './home.css';
 
 function Home() {
     return (
@@ -21,7 +22,7 @@ function Home() {
                             </div>
                         </div>
                         <div className="col-lg-6 hero-img aos-init aos-animate" data-aos="zoom-out" data-aos-delay="200">
-                            <img src="assets/img/logo2.jpg" className="img-fluid" alt="" />
+                            <img src="assets/img/logo2.jpg" className="img-fluid" alt="" height="100" weidth="100" />
                         </div>
                     </div>
                 </div>

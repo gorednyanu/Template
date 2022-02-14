@@ -1,4 +1,6 @@
-.getstart{
-    color: red;
-    
+.container{
+    color: rgb(14, 20, 14);
+}
+.container span {
+    color: darkorange;
 }

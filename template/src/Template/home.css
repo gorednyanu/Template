@@ -1,0 +1,9 @@
+.row{
+    background-color: white;
+}
+.row h2 {
+    color: red;
+}
+.row h1 {
+    color: gold;
+}

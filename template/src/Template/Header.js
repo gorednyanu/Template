@@ -4,7 +4,7 @@ import './header.css';
 
 function Header(){
     return(
-        <div>
+        <div className="container">
             <header id="header" className="header fixed-top header-scrolled">
                     <div className="container-fluid container-xl d-flex align-items-center justify-content-between">
 
