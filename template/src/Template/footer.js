@@ -9,7 +9,6 @@ function Footer() {
                     <div className="container">
                         <div className="row justify-content-center">
                             <div className="col-lg-12 text-center">
-                                <h4>Contact Us</h4>
                                 <p>Assimilate Technologies was founded by technophile with the objective of developing customer business centric software. </p>
                             </div>
                             <div className="col-lg-6">
@@ -39,7 +38,7 @@ function Footer() {
                             </div>
 
                             <div className="col-lg-2 col-6 footer-links">
-                                <h4>Useful Links</h4>
+                                <h4>Use Ful Links</h4>
                                 <ul>
                                     <li><i className="bi bi-chevron-right"></i> <Link to="/">Home</Link></li>
                                     <li><i className="bi bi-chevron-right"></i> <Link to="/about">About us</Link></li>
